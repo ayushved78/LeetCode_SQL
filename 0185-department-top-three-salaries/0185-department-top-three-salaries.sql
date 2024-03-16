@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+# Write your MySQL query statement below #AYUSHLOVECTE
 with cte as (
 select d.name as Department, e.name as Employee,e.salary as Salary 
 from Employee e
